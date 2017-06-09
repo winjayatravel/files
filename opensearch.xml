@@ -8,5 +8,5 @@
   <Url type="application/atom+xml" template="http://www.winjayatravel.com/search?q={searchTerms}&amp;feed=atom"/>
   <Url type="application/rss+xml" template="http://www.winjayatravel.com/search?q={searchTerms}&amp;feed=rss2"/>
   <Url type="text/html" template="http://www.winjayatravel.com/search?q={searchTerms}" method="GET" />
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://googledrive.com/host/0B1qVbhdfh42eOHF4aFVQS253c0U" />
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://cdn.rawgit.com/winjayatravel/files/16fed9f8/opensearch.xml" />
 </OpenSearchDescription>
